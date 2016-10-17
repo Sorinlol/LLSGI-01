@@ -14,7 +14,7 @@ He creado los siguientes archivos, usando para ello el **bloc de notas** y haci�
 + cocinacss.css - CSS
 + cocinahtml.html - HTML
 
-<>Como no sabía si tenía que subir los archivos de **texto plano**, los he subido por las dudas.
+<Como no sabía si tenía que subir los archivos de **texto plano**, los he subido por las dudas.>
 
 ###B: Crear un **repositorio** *GitHub*
 
