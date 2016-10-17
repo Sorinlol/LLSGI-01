@@ -9,12 +9,12 @@ Tras leer el primer tema que se puede encontrar en la sección de **Links utiliz
 He creado los siguientes archivos, usando para ello el **bloc de notas** y haciéndolos en una primera instancia como archivos de **texto plano**. Tras hacerlos en texto plano, los he renombrado a su **extensión** correspondiente, comprobando que se veían bien abriéndolos con el programa indicado. Los archivos son los siguientes:
 
 Nombre del archivo | Tipo de archivo
--- | --
-ArchivoRTF.rtf | RTF
-ArchivoPS.ps | PS
-ArchivoXML.xml | XML
-cocinacss.css | CSS
-cocinahtml.html | HTML
+------------------ | ---------------
+ArchivoRTF.rtf     | RTF
+ArchivoPS.ps       | PS
+ArchivoXML.xml     | XML
+cocinacss.css      | CSS
+cocinahtml.html    | HTML
 
 Como no sabía si tenía que subir los archivos de **texto plano**, los he subido por las dudas.
 
