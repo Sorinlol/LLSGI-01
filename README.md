@@ -14,6 +14,8 @@ He creado los siguientes archivos, usando para ello el **bloc de notas** y haci�
 + cocinacss.css - CSS
 + cocinahtml.html - HTML
 
+<>Como no sabía si tenía que subir los archivos de **texto plano**, los he subido por las dudas.
+
 ###B: Crear un **repositorio** *GitHub*
 
 Para esta parte de la tarea, me he registrado en la página de *GitHub*, he subido los archivos realizados para la tarea en texto plano y he editado el archivo *Readme.md* utilizando *Markdown* poniendo como contenido la explicación de todo lo que he hecho para llevar a cabo la tarea.
