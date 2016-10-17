@@ -16,7 +16,9 @@ ArchivoXML.xml     | XML
 cocinacss.css      | CSS
 cocinahtml.html    | HTML
 
+~~~
 Como no sabía si tenía que subir los archivos de **texto plano**, los he subido por las dudas.
+~~~
 
 ###B: Crear un **repositorio** *GitHub*
 
