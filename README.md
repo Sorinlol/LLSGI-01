@@ -30,4 +30,4 @@ Tal y como pide el enunciado, envío el enlace de mi repositorio.
 
 [Página IOC](http://ioc.xtec.cat/materials/FP/Materials/2251_ASIX/ASIX_2251_M04/web/html/WebContent/u1/a1/continguts.html)
 
-[Página GitHub*](https://github.com/)
+[Página GitHub](https://github.com/)
