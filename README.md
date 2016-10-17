@@ -17,7 +17,7 @@ cocinacss.css      | CSS
 cocinahtml.html    | HTML
 
 ~~~
-Como no sabía si tenía que subir los archivos de **texto plano**, los he subido por las dudas.
+Como no sabía si tenía que subir los archivos de texto plano, los he subido por las dudas.
 ~~~
 
 ###B: Crear un **repositorio** *GitHub*
@@ -30,8 +30,8 @@ Tal y como pide el enunciado, envío el enlace de mi repositorio.
 
 ##*Links* utilizados:
 
-[Página Wiki GitHub](https://ca.wikipedia.org/wiki/GitHub)
++ [Página Wiki GitHub](https://ca.wikipedia.org/wiki/GitHub)
 
-[Página IOC](http://ioc.xtec.cat/materials/FP/Materials/2251_ASIX/ASIX_2251_M04/web/html/WebContent/u1/a1/continguts.html)
++ [Página IOC](http://ioc.xtec.cat/materials/FP/Materials/2251_ASIX/ASIX_2251_M04/web/html/WebContent/u1/a1/continguts.html)
 
-[Página GitHub](https://github.com/)
++ [Página GitHub](https://github.com/)
