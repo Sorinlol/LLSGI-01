@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<curso>
+  <asignatura>lenguajes de marcas</asignatura>
+    <profesor>
+     <nombre>Miguel Ángel</nombre>
+     <apellidos>Urbina Pons</apellidos>
+    </profesor>
+    <alumnos>
+     <alumno>
+      <nombre>Jesús</nombre>
+      <apellidos>Sancho Sánchez</apellidos>
+     </alumno>
+     <alumno>
+      <nombre>DJel</nombre>
+      <apellidos>Traviatti</apellidos>
+     </alumno>
+    </alumnos>
+</curso>
