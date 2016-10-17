@@ -6,7 +6,7 @@ Tras leer el primer tema que se puede encontrar en la sección de **Links utiliz
 
 ###A: Crear documentos:
 
-He creado los siguientes archivos, usando para ello el **bloc de notas** y haciéndolos en una primera instancia como archivos de **texto plano**. Tras hacerlos en texto plano, los he renombrado a su **extensión** correspondiente, comprobando que se veían bien abriéndolos con el programa indicado. Los archivos son los siguientes:
+He creado los siguientes archivos, usando para ello el **bloc de notas** y haciéndolos en una primera instancia como archivos de **texto plano**. Tras hacerlos en texto plano, los he renombrado a su **extensión** correspondiente, comprobando que se veían bien abriéndolos con el programa indicado. Los archivos son los siguientes[^1]:
 
 Nombre del archivo | Tipo de archivo
 :-----------------:| :-------------:
@@ -17,7 +17,7 @@ cocinacss.css      | CSS
 cocinahtml.html    | HTML
 
 ~~~
-Como no sabía si tenía que subir los archivos de **texto plano**, los he subido por las dudas.
+[^1]Como no sabía si tenía que subir los archivos de **texto plano**, los he subido por las dudas.
 ~~~
 
 ###B: Crear un **repositorio** *GitHub*
