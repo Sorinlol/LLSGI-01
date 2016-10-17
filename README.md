@@ -6,7 +6,7 @@ Tras leer el primer tema que se puede encontrar en la sección de **Links utiliz
 
 ###A: Crear documentos:
 
-He creado los siguientes archivos, usando para ello el **bloc de notas** y haciéndolos en una primera instancia como archivos de **texto plano**. Los archivos son:
+He creado los siguientes archivos, usando para ello el **bloc de notas** y haciéndolos en una primera instancia como archivos de **texto plano**. Los archivos son los siguientes:
 
 + ArchivoRTF - RTF
 + ArchivoPS - PS
