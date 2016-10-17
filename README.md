@@ -17,7 +17,7 @@ cocinacss.css      | CSS
 cocinahtml.html    | HTML
 
 ~~~
-[^1]Como no sabía si tenía que subir los archivos de **texto plano**, los he subido por las dudas.
+[^1]:Como no sabía si tenía que subir los archivos de **texto plano**, los he subido por las dudas.
 ~~~
 
 ###B: Crear un **repositorio** *GitHub*
