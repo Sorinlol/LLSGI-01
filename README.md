@@ -6,15 +6,13 @@ Tras leer el primer tema que se puede encontrar en la sección de **Links utiliz
 
 ###A: Crear documentos:
 
-He creado los siguientes archivos, usando para ello el **bloc de notas** y haciéndolos en una primera instancia como archivos de **texto plano**. Los archivos son los siguientes:
+<He creado los siguientes archivos, usando para ello el **bloc de notas** y haciéndolos en una primera instancia como archivos de **texto plano**. Tras hacerlos en texto plano, los he renombrado a su **extensión** correspondiente, comprobando que se veían bien abriéndolos con el programa indicado. Los archivos son los siguientes:>
 
-+ ArchivoRTF - RTF
-+ ArchivoPS - PS
-+ ArchivoXML -XML
-+ cocinacss - CSS
-+ cocinahtml - HTML
-
-Una vez hechos estos archivos, los he renombrado a su **extensión** correspondiente, comprobando que se veían bien abriéndolos con el programa indicado.
++ ArchivoRTF.rtf - RTF
++ ArchivoPS.ps - PS
++ ArchivoXML.xml -XML
++ cocinacss.css - CSS
++ cocinahtml.html - HTML
 
 ###B: Crear un **repositorio** *GitHub*
 
