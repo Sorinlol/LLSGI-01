@@ -2,7 +2,7 @@
 <html>
 <head>
 <title>Jen's Kitchen</title>
-<link rel="stylesheet" href="kitchen.css" type="text/css" >
+<link rel="stylesheet" href="cocinacss.css" type="text/css" >
 </head>
 <body>
 <h1><img src="foods.gif" alt="food illustration"> Jen&rsquo;s Kitchen</h1>
